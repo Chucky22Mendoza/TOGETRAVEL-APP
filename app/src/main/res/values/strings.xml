@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="Title">TogeTravel</string>
+    <string name="Hint_User">User</string>
+    <string name="Hint_Pass">Password</string>
+    <string name="Hint_ConfPass">Confirm Password</string>
+    <string name="Hint_Name">Name</string>
+    <string name="Hint_CelNum">Cell phone</string>
+    <string name="Hint_Country">Country</string>
+    <string name="Hint_Gender">Gender</string>
+    <string name="Log_In">Log In</string>
+    <string name="Register">Sign Up</string>
+    <string name="Check">Acepto terminos y condiciones de uso</string>
+    <string name="Acept">Acept</string>
+</resources>
